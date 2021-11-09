@@ -38,6 +38,7 @@ namespace RedSocial
 
         public void SuspenderUsuario(string id_usuario_, string descripcion_baja_, string path_) 
         { 
+
         }
 
         public void SubirImagen(string id_usuario, string id_image, string description, string image_path, string path_)
