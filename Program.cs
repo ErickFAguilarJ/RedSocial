@@ -6,7 +6,9 @@ namespace RedSocial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Logger.LogSystem.RegistroUsuarios(;
+
+
         }
     }
 }
