@@ -1,0 +1,2 @@
+id_image,id_user,description,path
+1,1,esta es la foto de un perro,perro.jpg

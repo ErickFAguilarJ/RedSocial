@@ -1,2 +1,2 @@
-id,descripcion_baja
+id_usuario,descripcion_baja
 2,no creo que esta red social aporte a mi vacia existencia ):
